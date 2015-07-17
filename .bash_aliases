@@ -1,5 +1,6 @@
 alias agi='sudo apt-get install'
 alias agr='sudo apt-get remove'
 alias agu='sudo apt-get update'
-alias la='ls -alh'
+alias ls='ls -alh'
 alias mv='mv -iv'
+
