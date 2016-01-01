@@ -1,0 +1,6 @@
+export CDPATH=.:/media/sda
+export PATH=$PATH:/home/lawal/mybin/android-sdk-linux_x86/platform-tools
+export PATH=$PATH:/usr/lib/python-django/bin
+export PATH=$PATH:/home/lawal/mybin/
+#echo "Welcome to Lawal's computer what may i do you fo?"
+#screen 
