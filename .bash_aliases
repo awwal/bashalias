@@ -13,4 +13,5 @@ alias rm='rm -i'
 #typos
 alias ipconfig='ifconfig'
 alias cd..='cd ..'
+alias gs='git status'
 
